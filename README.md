@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### README
+
+Este projeto foi desenvolvido uma API e um banco de dados para a produção de conteúdo para um blog!
+
+É um banco de dados fictício chamado "Commerce”, que contém dados do cardápio do McDonald's, incluindo ingredientes, valores nutricionais e dados fictícios de vendas. O objetivo deste banco de dados é servir como um exemplo de como uma aplicação de fast food pode armazenar informações relacionadas ao seu cardápio e vendas.
